@@ -1,5 +1,5 @@
 # Trivia Frontend
-## _part of the Last Trivia API, Ever_
+## _Frontend-part of the Last Trivia API, Ever_
 
 <img src="https://opentdb.com/images/logo.png" alt="drawing" width="200"/>
 
