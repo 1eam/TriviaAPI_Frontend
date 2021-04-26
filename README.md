@@ -17,7 +17,7 @@ _TriviaFrontend is a frontend that provides 5 trivia's from the [TriviaAPI backe
     "submitted_answer": "2021"
 }
 ```
-- **✨Magic ✨**
+**✨Magic ✨**
 
 - **receive back answer-result & correct answer:**
  ```sh
