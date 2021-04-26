@@ -30,7 +30,7 @@ _TriviaFrontend is a frontend that provides 5 trivia's from the [TriviaAPI backe
 
 ## About Application
 
-**This frontend project is part of [a bigger project](https://github.com/1eam/Trivia_API) which includes API that serves this frontend.
+**This frontend project is part of [a bigger project](https://github.com/1eam/Trivia_API) which includes API that serves this frontend.**
 
 ## License
 
